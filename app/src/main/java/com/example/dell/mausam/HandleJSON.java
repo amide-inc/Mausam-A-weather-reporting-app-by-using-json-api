@@ -28,7 +28,7 @@ import java.util.Date;
 
 class HandleJSON extends AsyncTask<String, Void , String> {
     String url1 = "http://api.openweathermap.org/data/2.5/weather?q=";
-    String appid = "&appid=b326d0250896b8840d30cb1bdd5fcf80";
+    String appid = "&appid=b326d0253******************bdd5fcf80";
     Context context;
     Activity activity;
     AlertDialog.Builder builder;
